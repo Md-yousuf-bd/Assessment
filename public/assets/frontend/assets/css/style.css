@@ -1,0 +1,57 @@
+.vertical-menu {
+    background: #000 !important;
+}
+#sidebar-menu ul li a,i {
+    color: #FFF !important;
+    font-weight: 500;
+}
+#sidebar-menu ul li a:hover {
+    color: #eeebebab !important;
+
+}
+#sidebar-menu ul li i:hover {
+    color: #fff !important;
+
+}
+.waves-effect {
+    background: #0081B5;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#vertical-menu-btn {
+    width: auto !important;
+    background: none;
+    border-radius: 0px;
+    margin-bottom: 0px !important;
+}
+.navbar-brand-box {
+    background: #000 !important;
+}
+.dash-menu ul li {
+    list-style-type: none;
+}
+.dash-menu ul {
+    margin-bottom: 0px !important;
+}
+.dash-menu {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.dash-menu ul li a{
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #000;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.dash-menu ul li a:hover{
+    color: #0081B5;
+    transition: 0.5s;
+}
+
+input[type=text]:focus {
+    border: none;
+    box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+  }
